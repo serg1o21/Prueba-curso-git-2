@@ -1,0 +1,4 @@
+mv viejonombre nuevo_nombre
+
+git add nuevo_nombre
+git rm viejo_nombre
